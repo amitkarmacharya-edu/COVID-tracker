@@ -2,7 +2,7 @@
 
 This Covid tracker application delivers the current covid19 updates and statistics nationwide. The User can search for any city and view instantaneous status and trends pertaining to the Coronavirus disease.
 
-[Click here to go to Covid-19 Stats Site](https://chernanma.github.io/Project_1/)
+[Click here to go to Covid-19 Stats Site](https://amitkarmacharya-edu.github.io/COVID-tracker/)
 
 ![picture](./Assets/Images/webpage.png)
 
